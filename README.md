@@ -1,0 +1,1 @@
+# Drinks. REST API educational project.
